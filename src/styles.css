@@ -1,4 +1,4 @@
-p {
+/* p {
     background-color: lightblue;
 }
 
@@ -17,4 +17,29 @@ img {
 
 .avatar {
     width:200px;
+} */
+
+p {
+  background: lightblue;
+}
+
+li {
+  color: blue;
+}
+
+h3 {
+  font-style: italic;
+}
+
+img {
+  opacity: 0.8;
+  border-radius: 50%;
+}
+
+.avatar {
+  width: 500px;
+}
+
+#react {
+  color: green;
 }
